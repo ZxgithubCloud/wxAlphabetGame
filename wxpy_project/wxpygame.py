@@ -81,6 +81,7 @@ class MainFrame(wx.Frame):
 
 
 app = wx.App()  
+
 frm = MainFrame(None, "hell world.")
 # Show it.
 frm.Show()
